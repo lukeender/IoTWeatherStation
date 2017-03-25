@@ -3,10 +3,9 @@
 #include "DS18B20.h"
 extern SFE_BMP180 sensor;
  
-// replace with your channel’s thingspeak API key and your SSID and password
 String apiKey = "RFBCQHJY18B1FEDS";
-const char* ssid = "ZaneBridge";
-const char* password = "Homestead4";
+const char* ssid = "SSID";
+const char* password = "Password";
 const char* server = "api.thingspeak.com";
 WiFiClient client;
  
