@@ -21,3 +21,7 @@ Upon being powered on, the device connects to a wifi network and then directly e
 * OneWire for DHT and DS18B20 comms
 * Dallas Temperature for the DS18B20
 * ESP8266WiFi.h library included in ESP8266 Arduino IDE package
+
+## Data viewer
+
+If you are interested in the weather data inside my room and outside my window, you can view the live data [here](https://thingspeak.com/channels/214866)
